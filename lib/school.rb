@@ -4,7 +4,7 @@ class School
   attr_accessor :roster :name :grade 
   
   def initialize(name)
-    
+    @name = name 
   end 
   
   def #why make a method?
