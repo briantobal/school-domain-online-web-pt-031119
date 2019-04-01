@@ -3,7 +3,9 @@
 class School 
   attr_accessor :roster :name :grade 
   
-  def initialize
+  def initialize(name)
+    
+  end 
   
   def #why make a method?
     roster = {}
