@@ -3,7 +3,7 @@
 class School 
   attr_accessor :roster
   
-  def 
+  def #why make a method?
     roster = {}
   end 
   
