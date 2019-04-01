@@ -22,7 +22,7 @@ class School
   end 
   
   def sort 
-    self.roster each do
+    self.roster.each do
   end 
   
 end 
