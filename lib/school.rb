@@ -7,7 +7,7 @@ class School
     @name = name 
   end 
   
-  def #why make a method?
+  def roster (student )#why make a method?
     roster = {}
   end 
   
