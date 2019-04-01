@@ -5,10 +5,10 @@ class School
   
   def initialize(name)
     @name = name 
+    @roster = {}
   end 
   
-  def roster (student )#why make a method?
-    roster = {}
+  def roster 
   end 
   
   def add_student(name, grade)
